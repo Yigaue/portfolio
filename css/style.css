@@ -403,9 +403,12 @@ p.resume{
     color: #c18f59; }
   @media (max-width: 1250px) {
     .single-book {
-      margin-right: 10px; }
+      margin-right: 10px;
+      margin-bottom: 40px;
+    }
       .single-book:last-child {
         margin-right: 0; } }
+        
 
 .rating {
   margin-top: 8px;
